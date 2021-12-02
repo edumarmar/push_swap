@@ -3,7 +3,7 @@
 ## Score
 Final Score 105/100
 
-##Description
+## Description
 
 Sort a random list of integers using the smallest number of moves, 2 stacks and a limited set of operations.
 
