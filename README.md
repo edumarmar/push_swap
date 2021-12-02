@@ -1,7 +1,7 @@
 # push_swap
 
 ## Score
-Final Score 105/100
+Final Score 84/100
 
 ## Description
 
